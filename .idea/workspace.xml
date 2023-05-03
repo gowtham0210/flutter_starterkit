@@ -5,15 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="198b56a4-c40e-49be-9313-8ceb7a912efb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/fonts/EBGaramond-Italic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/EBGaramond.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/Poppins.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/image/coffee-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/order.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/flutter_starterkit.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/flutter_starterkit.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/4f2a58af27abc49ecf55570043bbf938.cache.dill.track.dill" beforeDir="false" afterPath="$PROJECT_DIR$/build/4f2a58af27abc49ecf55570043bbf938.cache.dill.track.dill" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/order.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/order.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +38,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
     <property name="cidr.known.project.marker" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="io.flutter.reload.alreadyRun" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/image" />
     <property name="show.migrate.to.gradle.popup" value="false" />

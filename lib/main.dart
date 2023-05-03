@@ -50,7 +50,7 @@ class homepage extends StatelessWidget {
               ),
               const Spacer(),
               Container(
-                  margin: const EdgeInsets.only(bottom: 50),
+                  margin: const EdgeInsets.only(bottom: 60),
                   child: Align(
                       alignment: Alignment.bottomCenter,
                       child: TextButton(
